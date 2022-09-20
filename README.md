@@ -1,1 +1,1 @@
-# breast-cancer-histopathology-image-classifier
+# Breast Cancer Histopathology Image Classifier
