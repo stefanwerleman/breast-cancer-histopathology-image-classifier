@@ -1,4 +1,29 @@
-# Breast Cancer Histopathology Image Classifie
+# Breast Cancer Histopathology Image Classifier
+
+# Setup
+
+## Requirements
+
+-   Python 3.8 or >=
+-   Pip
+
+## Install Dependencies
+
+```shell
+pip install -r requirements.txt
+```
+
+# Train
+
+```shell
+python src/train.py
+```
+
+# Predict
+
+```shell
+python src/predict.py
+```
 
 # Acknowledgements
 
