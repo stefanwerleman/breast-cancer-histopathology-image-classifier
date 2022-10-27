@@ -6,7 +6,7 @@ Histopathological tissue analysis by a pathologist determines the diagnosis and 
 
 ![annotation](annotated.png 'Annotation Example')
 
-The ground truth is provided in JSON format. Six classes (mitosis,apoptosis, tumor, non_tumor, tubule, non_tubule) are defined. In the given example, there are two mitosis and one tumor annotations. _x_ and _y_ are the coordinates of the centroid of annotated objects, and the values are between [0, 1].
+The ground truth is provided in JSON format. Six classes (mitosis,apoptosis, tumor, non*tumor, tubule, non_tubule) are defined. In the given example, there are two mitosis and one tumor annotations. \_x* and _y_ are the coordinates of the centroid of annotated objects, and the values are between [0, 1].
 
 ```json
 {
@@ -22,7 +22,7 @@ The ground truth is provided in JSON format. Six classes (mitosis,apoptosis, tum
 }
 ```
 
-If you use this code, please cite the following [paper]():
+If you use this code, please cite the following [paper](https://bmcresnotes.biomedcentral.com/articles/10.1186/s13104-019-4121-7):
 
 ```
 @InProceedings{,
