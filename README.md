@@ -4,7 +4,7 @@
 
 ## Requirements
 
--   Python 3.8 or >=
+-   Python >=3.8
 -   Pip
 
 ## Install Dependencies
