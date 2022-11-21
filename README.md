@@ -13,6 +13,20 @@
 pip install -r requirements.txt
 ```
 
+## Set PYTHONPATH
+
+**Linux:**
+
+```shell
+export PYTHONPATH=$PYTHONPATH:'path/to/canny-edge-detector'
+```
+
+**Windows:**
+
+```Windows
+SET PYTHONPATH=%PYTHONPATH%;'path/to/canny-edge-detector'
+```
+
 # Train
 
 ```shell
